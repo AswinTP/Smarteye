@@ -1,0 +1,6 @@
+enum CustomDialogueTypes {
+  CENTER,
+  BOTTOM,
+  CENTER_WITH_ANIMATION,
+  BOTTOM_WITH_ANIMATION
+}

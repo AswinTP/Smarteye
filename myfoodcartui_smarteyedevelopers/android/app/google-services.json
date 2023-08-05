@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704196766063",
+    "project_id": "myfoodcart-firebase",
+    "storage_bucket": "myfoodcart-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704196766063:android:bff7177525f35bcc8e609a",
+        "android_client_info": {
+          "package_name": "com.example.myfoodcartui_smarteyedevelopers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704196766063-ufoq85rt8ih8meh06jjadankkc25o3sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ASf6lu8MfoQqGumZE6fgd1lVrsgDwkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704196766063-ufoq85rt8ih8meh06jjadankkc25o3sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
